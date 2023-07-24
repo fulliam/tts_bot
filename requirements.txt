@@ -1,0 +1,6 @@
+torch
+num2words
+telebot
+requests
+python-dotenv
+numpy
